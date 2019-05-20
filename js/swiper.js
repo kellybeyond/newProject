@@ -64,4 +64,4 @@ Rotate.prototype={
     }  
 }
 // let a=new Rotate();
-// a.rotate(800,600,'m1.jpg','m2.jpg','m3.png','m4.jpg')
+// a.rotate(parentElement,800,600,'m1.jpg','m2.jpg','m3.png','m4.jpg')
